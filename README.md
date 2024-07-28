@@ -25,8 +25,6 @@ A working Spotify clone built in Flutter using Firebase.
      
 </details>
 
-## Screenshots
-
 ## Directory Structure
   
 ```
